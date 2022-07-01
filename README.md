@@ -113,4 +113,4 @@ output:
 ```
 
 ---
-**Tags:** *Python, Numpy, Regex, LSTM, RNN, NN, AraVec, Gensim, TensorFlow, *
+**Tags:** *Python, Numpy, Regex, LSTM, RNN, NN, AraVec, Gensim, TensorFlow*
