@@ -111,3 +111,6 @@ output:
 في : O
 بخاري. : B-LOC
 ```
+
+---
+**Tags:** *Python, Numpy, Regex, LSTM, RNN, NN, AraVec, Gensim, TensorFlow, *
